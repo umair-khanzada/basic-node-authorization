@@ -1,0 +1,25 @@
+{
+  "name": "serve-box",
+  "version": "0.0.0",
+  "description": "this is basic authorization app using node",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "~1.0.0",
+    "express": "~4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umair-khanzada/basic-node-authorization.git"
+  },
+  "author": "Umair Ahmed",
+  "bugs": {
+    "url": "https://github.com/umair-khanzada/basic-node-authorization/issues"
+  },
+  "homepage": "https://github.com/umair-khanzada/basic-node-authorization#readme"
+}
